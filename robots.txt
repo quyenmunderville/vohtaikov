@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aihahdeixi.bravebox.io/sitemap.xml
